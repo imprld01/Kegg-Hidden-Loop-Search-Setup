@@ -1,3 +1,4 @@
 # Kegg-Hidden-Loop-Search-Setup
 
-Java Runtime Environment is needed!
+* Archive file for KEGG hidden loop search
+* Java Runtime Environment is needed
