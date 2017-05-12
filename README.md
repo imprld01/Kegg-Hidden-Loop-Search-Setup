@@ -1,7 +1,7 @@
 # Kegg-Hidden-Loop-Search-Setup
 
 * Archive file for KEGG hidden loop search
-* Java Runtime Environment(JRE) is needed (developed under jre 1.8.0)
+* Java Runtime Environment(JRE) is needed (developed under jre1.8.0)
 
 * Find KGI [here](https://github.com/imprld01/Kegg-Hidden-Loop-Search/tree/master/res/Kgml_Information/ko) (retrieve at 2017/05/07)
 
