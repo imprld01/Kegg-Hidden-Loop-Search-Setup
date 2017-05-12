@@ -7,4 +7,4 @@
 
 * 2017/05/07
   * packed by batch file
-  * rearrange file destination
+  * rearrange file destination, including dataset, report, etc
