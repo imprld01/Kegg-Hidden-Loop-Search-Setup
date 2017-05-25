@@ -10,3 +10,12 @@
 * 2017/05/07
   * packed by batch file
   * rearrange file destination, including dataset, report, etc
+
+# Tool Remark
+
+* Installation System
+  * Inno Setup
+  * NSIS(Nullsoft Scriptable Install System)
+* Java Executable Wrapper
+  * Launch4j
+  * exe4j
