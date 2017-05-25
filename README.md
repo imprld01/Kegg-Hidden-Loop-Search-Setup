@@ -14,8 +14,8 @@
 # Tool Remark
 
 * Installation System
-  * Inno Setup
+  * **Inno Setup**
   * NSIS(Nullsoft Scriptable Install System)
 * Java Executable Wrapper
+  * **exe4j**
   * Launch4j
-  * exe4j
