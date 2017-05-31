@@ -5,6 +5,7 @@
 
 * Find KGI [here](https://github.com/imprld01/Kegg-Hidden-Loop-Search/tree/master/res/Kgml_Information/ko) immediately (retrieved at 2017/05/07)
   * species: ko
+  * remember to put kgi to correct directory!
 
 # Update Log
 
