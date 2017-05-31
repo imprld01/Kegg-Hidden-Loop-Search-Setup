@@ -10,6 +10,8 @@
 * 2017/05/07
   * packed by batch file
   * rearrange file destination, including dataset, report, etc
+* 2017/05/31
+  * merge CreateReportMain and FilterSearchMain in Step3
 
 # Tool Remark
 
