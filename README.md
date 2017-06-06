@@ -4,11 +4,6 @@
 
 You can download this archive file for kegg hidden loop searching.
 
-# Environment
-
-* Run under windows 32-bit OS
-* Java Runtime Environment is needed (developed under jre1.8.0)
-
 # KGI
 
 The searching is based on KGI, which is an integrated database on kegg database.
@@ -18,6 +13,11 @@ The searching is based on KGI, which is an integrated database on kegg database.
   * species: **ko**(KEGG Orthology)
   * place KGI in specific directory(~/Database/Kgml_Information/ko/)
 
+# Environment
+
+* Run under windows 32-bit OS
+* Java Runtime Environment is needed (developed under jre1.8.0)
+  
 # Update Log
 
 * 2017/05/07
