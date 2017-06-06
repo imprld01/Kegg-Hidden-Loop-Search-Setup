@@ -1,6 +1,6 @@
 # Kegg-Hidden-Loop-Search-Setup
 
-You can download the archive file for kegg hidden loop searching.
+You can download the archive file for kegg hidden loop searching.  
 If your computer is 64-bit, you can download from [here](https://goo.gl/MvgANe) directly.
 
 * [Here](https://goo.gl/VKIkOe) you can know more about kegg hidden loop searching
