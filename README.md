@@ -4,8 +4,8 @@
 * Java Runtime Environment is needed (developed under jre1.8.0)
 
 * Find KGI [here](https://github.com/imprld01/Kegg-Hidden-Loop-Search/tree/master/res/Kgml_Information/ko) immediately (retrieved at 2017/05/07)
-  * species: ko
-  * remember to put kgi to correct directory!
+  * species: **ko**(KEGG Orthology)
+  * place KGI in specific directory(~/Database/Kgml_Information/ko/)
 
 # Update Log
 
