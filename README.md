@@ -1,7 +1,13 @@
 # Kegg-Hidden-Loop-Search-Setup
 
+[here](https://goo.gl/VKIkOe) you can know more about kegg hidden loop searching.
+
 * Archive file for *KEGG hidden loop search*
 * Java Runtime Environment is needed (developed under jre1.8.0)
+
+# KGI
+
+The searching is based on KGI, which is an integrated database on kegg database.
 
 * Find KGI [here](https://github.com/imprld01/Kegg-Hidden-Loop-Search/tree/master/res/Kgml_Information/ko) immediately (retrieved at 2017/05/07)
   * species: **ko**(KEGG Orthology)
