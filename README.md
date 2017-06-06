@@ -12,11 +12,6 @@ The searching is based on KGI, which is an integrated database on kegg database.
   * retrieved on 2017/05/07
   * species: **ko**(KEGG Orthology)
   * place KGI in specific directory(~/Database/Kgml_Information/ko/)
-
-# Environment
-
-* Run under windows 32-bit OS
-* Java Runtime Environment is needed (developed under jre1.8.0)
   
 # Update Log
 
@@ -25,6 +20,11 @@ The searching is based on KGI, which is an integrated database on kegg database.
   * rearrange file destination, including dataset, report, etc
 * 2017/05/31
   * merge CreateReportMain and FilterSearchMain in Step3
+  
+# Environment
+
+* Run under windows 32-bit OS
+* Java Runtime Environment is needed (developed under jre1.8.0)
 
 # Tool Remark
 
