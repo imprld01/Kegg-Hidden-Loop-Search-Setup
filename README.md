@@ -23,7 +23,7 @@ The searching is based on KGI, which is an integrated database on kegg database.
   
 # Environment
 
-* Run under windows 32-bit OS
+* under windows 32-bit OS
 * Java Runtime Environment is needed (developed under jre1.8.0)
 
 # Tool Remark
