@@ -9,7 +9,7 @@ If your computer is win 64-bit, you can download from [here](https://goo.gl/MvgA
 
 # KGI
 
-The searching is based on KGI, which is an integrated data structure parsed from kegg database in specific species.
+The searching is based on KGI, an integrated data structure parsed from kegg database in specific species.
 
 * Find KGI [here](https://github.com/imprld01/Kegg-Hidden-Loop-Search/tree/master/res/Kgml_Information/ko) immediately
   * retrieved on 2017/05/07
