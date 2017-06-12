@@ -3,10 +3,10 @@
 You can download the archive file for kegg hidden loop searching.  
 If your computer is win 64-bit, you can download from [here](https://goo.gl/MvgANe) directly.
 
-* [Here](https://goo.gl/VKIkOe) you can know more about kegg hidden loop searching
+* [Here](https://goo.gl/g0oxZX) you can know more about kegg hidden loop searching
 * [Here](https://goo.gl/MvgANe) you can know what is inside the archive file
   * [Here](https://goo.gl/PMFctb) you can find the user guide
-* **Searching is based on KGI, you can find KGI [here](https://goo.gl/indrKj) immediately or prepare KGI by yourself**
+* **Searching is based on KGI, you can find [KGI](https://goo.gl/indrKj) immediately or prepare KGI by yourself**
   
 # Update Log
 
